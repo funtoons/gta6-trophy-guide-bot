@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Cover: checklist with 12 of 55 earned, progress bar, filters, roadmap teaser, Positive Mental Attitude guide with its missable warning open beside the list.","path":"/?trophy=28","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"The Shootist detail open: full guide with its cited source.","path":"/?trophy=17","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"Roadmap view: 8 stages to the platinum, starting with Story Chapters 1 and 2.","path":"/?view=roadmap","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","note":"Missable filter (1 of 55) with spoiler hiding on: a hidden story trophy masked, export/import visible.","path":"/?filter=missable&spoiler=1&trophy=10","viewport":{"height":800,"width":1280}}]
